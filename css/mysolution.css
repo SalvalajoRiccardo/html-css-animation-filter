@@ -46,11 +46,11 @@
 }
 
 .ex-5-square:hover {
-    transform: scale(200%);
+    transform: scale(2);
 }
 
 .ex-5-square:active {
-    transform: scale(50%);
+    transform: scale(0.5);
 }
 
 /* esercizio 6 */
